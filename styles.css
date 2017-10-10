@@ -1,0 +1,8 @@
+h1 { color: rgb(0,0,128); }
+
+img { margin: 20px; box-shadow: 5px 5px 5px gray;  }
+
+ul li {
+    list-style-position: outside;
+    margin-left: 0 em;
+}
